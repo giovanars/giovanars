@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @giovanars
+### Olá! Sou a Giovana 👋
 
-<!---
-giovanars/giovanars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+:coffee: Desenvolvedora 🏡 Brasileiro 🌎 São Paulo (São Paulo) ✈️ Brasil
+
+### Encontre-me por aqui 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovana-rocha-santos/)](https://www.linkedin.com/in/giovana-rocha-santos/)
+
+
+:construction_worker: Atualmente sou desenvolvedora .NET
+📚 Estudando: .NET e Golang
+:computer: Graduado Análise e Desenvolvimento de Sistemas<br>
+</samp>
