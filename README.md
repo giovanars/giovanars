@@ -9,5 +9,5 @@
 
 :construction_worker: Atualmente sou desenvolvedora .NET
 📚 Estudando: .NET e Golang
-:computer: Graduado Análise e Desenvolvimento de Sistemas<br>
+:computer: Graduada em Análise e Desenvolvimento de Sistemas<br>
 </samp>
