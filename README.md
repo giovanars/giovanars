@@ -1,6 +1,6 @@
 ### Olá! Sou a Giovana 👋
 
-:coffee: Desenvolvedora 🏡 Brasileiro 🌎 São Paulo (São Paulo) ✈️ Brasil
+:coffee: Desenvolvedora 🏡 São Paulo (São Paulo) ✈️ Brasil
 
 ### Encontre-me por aqui 🌎
 
