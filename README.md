@@ -10,4 +10,5 @@
 :construction_worker: Atualmente sou desenvolvedora .NET<br>
 📚 Estudando: .NET e Golang<br>
 :computer: Graduada em Análise e Desenvolvimento de Sistemas<br>
+📚 Cursando MBA em Full Stack Development
 </samp>
